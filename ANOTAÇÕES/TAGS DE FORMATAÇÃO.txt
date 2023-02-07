@@ -1,0 +1,15 @@
+Principais Formatações / TAG's
+
+Negrito / Destaque
+
+- NEGRITO = B
+- DESTAQUE = STRONG
+- ITÁLICO = I
+- ENFASE = EM
+- TEXTO MARCADO = MARK + STYLES="background-color:"
+- TEXTO PEQUENO = SMALL
+- TEXTO GRANDE = BIG
+- TEXTO DELETADO = DELL
+- TEXTO SOBRESCRITO = SUP
+- TEXTO SUBESCRITO = SUB
+- 

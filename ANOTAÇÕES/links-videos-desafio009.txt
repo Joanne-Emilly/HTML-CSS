@@ -1,0 +1,4 @@
+video-1-python: https://www.youtube.com/watch?v=S9uPNppGsGo
+video-1-HTML5:https://www.youtube.com/watch?v=epDCjksKMok
+video-1-javascript:https://www.youtube.com/watch?v=epDCjksKMok
+video-1-hadware:https://www.youtube.com/watch?v=iT6E92Kt38o&list=PLHz_AreHm4dn1JHgN9wpbIUhzZmycYQXW
